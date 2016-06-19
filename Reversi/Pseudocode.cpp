@@ -45,4 +45,7 @@ can't let the player choose a spot that will not flip at least a piece.
 if a player does not have a legal move, then the other player is able to go again. (presumably until the end or an option opens up)
 
 
+Unlike other programs where the inputs and outputs scroll down in the console window, is it possible
+to make the board stable and stay in one place (at the top) every time? //ask aaron about his blackjack clear thing
+
 */

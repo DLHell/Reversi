@@ -10,9 +10,10 @@ public:
 	~Reversi();	//Default Dtor
 	//Copy Ctor
 	//Op =
+	void Play();	//Play function of game
 
 private:
-
+	Player mPlaya;
 };
 
 #endif
